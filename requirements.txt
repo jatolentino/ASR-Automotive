@@ -1,0 +1,6 @@
+tensorflow==2.16.2
+pandas
+tqdm
+mltu  # Adjust the version if needed. You may need to check the specific version of `mltu`
+keras  # Ensure the version of Keras aligns with TensorFlow version
+tf2onnx

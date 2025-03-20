@@ -1,0 +1,1032 @@
+{{short description|List of definitions of terms and concepts related to automobiles}}
+
+This '''glossary of automotive terms''' is a list of definitions of terms and concepts related to [[automobile]]s, including their parts, operation, and manufacture, as well as [[automotive engineering]], [[auto repair]], and the [[automotive industry]] in general. For more specific terminology regarding the design and classification of various automobile styles, see [[Glossary of automotive design]]; for terms related to transportation by road, see [[Glossary of road transport terms]]; for competitive auto racing, see [[Glossary of motorsport terms]].
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==A==
+{{glossary}}
+{{term|accelerator}}
+{{ghat|Also '''gas pedal'''.}}
+{{defn|A {{gli|throttle}} in the form of a foot-operated pedal, or sometimes a hand-operated lever or paddle, by which the flow of fuel to the {{gli|internal combustion engine|engine}} (and thereby the engine speed) is controlled, with depression of the pedal causing the vehicle to accelerate.<ref name="Goodsell">{{cite book |last1=Goodsell |first1=Don |title=Dictionary of Automotive Engineering |date=1995 |publisher=Society of Automotive Engineers, Inc. |location=Warrendale, PA |isbn=1-56091-683-4 |ol=796394M |edition=2nd |url=https://openlibrary.org/books/OL796394M/Dictionary_of_automotive_engineering |access-date=2021-10-06 |archive-date=2023-08-22 |archive-url=https://web.archive.org/web/20230822184902/https://openlibrary.org/books/OL796394M/Dictionary_of_automotive_engineering |url-status=live }}</ref>}}
+
+{{term|[[induction stroke|admission stroke]]}}
+{{defn|See ''{{gli|induction stroke}}''.}}
+
+{{term|[[aftermarket (automotive)|aftermarket]]}}
+{{defn|}}
+
+{{term|[[air brake (road vehicle)|air brake]]}}{{anchor|air brakes}}
+{{defn|no=1|A type of {{gli|brake}} in which the force that actuates the brake mechanism is provided by compressed air acting on a {{gli|diaphragm}} within a brake chamber or {{gli|servo}}. Such systems are used primarily in commercial vehicles.}}
+{{defn|no=2|An aerodynamic {{gli|spoiler}} designed to retard high-speed vehicles.<ref name="Goodsell"/>}}
+
+{{term|airless injection}}
+{{ghat|Also '''solid injection'''.}}
+{{defn|A type of {{gli|fuel injection}} which relies on mechanical pressure only; the normal method of injection in a {{gli|diesel engine}}.<ref name="Goodsell"/>}}
+
+{{term|[[all-wheel drive]] (AWD)}}
+{{defn|}}
+
+{{term|[[alternative fuel vehicle]]}}
+{{defn|}}
+
+{{term|[[alternator]]}}
+{{defn|A small electrical generator that converts mechanical energy into electrical energy in the form of [[alternating current]], typically by using the {{gli|internal combustion engine|engine}} to drive the rotation of a magnet which induces a current in a stationary [[armature (electrical)|armature]]. This electrical energy is then stored in the {{gli|battery}}.}}
+
+{{term|[[anti-lock braking system]] (ABS)}}
+{{defn|}}
+
+{{term|[[antifreeze]]}}
+{{defn|Any chemical, commonly [[ethylene glycol]], that is added to the cooling water of an {{gli|internal combustion engine|engine}} in order to decrease its freezing point for winter operation, when ambient temperatures may be below the normal freezing point of water.<ref name="Goodsell"/>}}
+
+{{term|[[articulated vehicle]]}}
+{{defn|Any vehicle consisting of two or more usually separable wheeled units, such as a towing vehicle (e.g. a [[tractor unit]]) combined with a towed vehicle (e.g. a {{gli|trailer}} or {{gli|semi-trailer}}) that is often unpowered and carrying a load. Articulation is primarily in the steering mode, though some degree of horizontal axis articulation is usually also necessary to enable the combined tractor-trailer to negotiate road surface irregularities.<ref name="Goodsell"/>}}
+
+{{term|[[automatic transmission]]}}
+{{defn|}}
+
+{{term|[[automotive design]]}}
+{{defn|}}
+
+{{term|[[automotive engineering]]}}
+{{defn|}}
+
+{{term|[[axle]]}}{{anchor|axles}}
+{{defn|A horizontal transverse shaft or beam with spindles on which road wheels are mounted. There are many different types of axles, typically distinguished by their placement relative to the vehicle's center of mass and their intended use. Vehicles are often classified by the number of axles they possess.<ref name="Goodsell"/>}}
+
+{{term|axle ratio}}
+{{defn|}}
+
+{{glossaryend}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==B==
+{{glossary}}
+{{term|[[back-fire]]}}
+{{defn|An explosion of unburned or partially burned fuel that occurs in an {{gli|exhaust}} or inlet system, rather than in the {{gli|combustion chamber}} as intended.<ref name="Goodsell"/>}}
+
+{{term|[[backup camera]]}}
+{{defn|}}
+
+{{term|[[ball and socket]]}}
+{{ghat|Also '''ball joint'''.}}
+{{defn|A type of mechanical joint in which a spherical end (the ball) moves freely within a recessed cavity of the same shape (the socket), commonly used in {{gli|suspension}} and {{gli|steering}} linkages.<ref name="Goodsell"/>}}
+
+{{term|[[automotive battery|battery]]}}
+{{defn|}}
+
+{{term|[[bell housing]]}}
+{{defn|}}
+
+{{term|[[bench seat]]}}
+{{defn|}}
+
+{{term|[[body-in-blue]]}}
+{{defn|}}
+
+{{term|[[brake]]}}{{anchor|brakes}}
+{{defn|Any device designed to apply friction to a moving or moveable surface in order to slow it, stop it, or prevent it from moving, especially one that slows, stops, or prevents the rotation of one or more of the wheels of an automobile. Most wheeled vehicles are built with at least one brake for each wheel, which can be applied either independently of each other or, in four-wheeled vehicles, all at the same time, by depressing one or more foot-operated {{gli|brake pedals}} or {{gli|handbrake|hand-operated levers}}. If the vehicle is already in motion, the act of applying the wheel brakes, known as ''braking'', will ultimately cause the entire vehicle to slow or stop as the friction generated by the contact between the tires and the ground overcomes the vehicle's inertia. If the vehicle is stationary, the same brakes or a separate brake may also be applied to prevent the wheels from rotating while the vehicle is parked. There are many types of brakes which operate on a wide variety of physical principles. Modern automotive {{gli|braking systems}} rely on a large and complex network of precisely controlled mechanisms in order to deliver optimal {{gli|braking pressure}} for specific road conditions, to prevent brakes from {{gli|locking}} and overheating, to reduce the amount of input required from the driver, and ultimately to maximize safety, efficiency, and durability.<ref name="Lane"/>}}
+
+{{term|[[brake balance]]}}
+{{ghat|Also '''brake bias'''.}}
+{{defn|}}
+
+{{term|brake dive}}
+{{defn|See ''{{gli|dive}}''.}}
+
+{{term|[[brake fade]]}}
+{{defn|}}
+
+{{term|[[brake fluid]]}}
+{{defn|}}
+
+{{term|[[brake light]]}}
+{{ghat|Also '''brake lamp'''.}}
+{{defn|}}
+
+{{term|[[brake pad]]}}{{anchor|brake pads}}
+{{ghat|Also '''brake puck'''.}}
+{{defn|}}
+
+{{term|[[brake pedal]]}}
+{{defn|}}
+
+{{term|brake puck}}
+{{defn|See ''{{gli|brake pad}}''.}}
+
+{{term|[[brake shoe]]}}
+{{defn|}}
+
+{{term|brake swept area}}
+{{defn|}}
+
+{{term|brake rotor}}
+{{defn|}}
+
+{{term|[[braking distance]]}}
+{{defn|}}
+
+{{term|[[braking system]]}}
+{{defn|}}
+
+{{term|breeches pipe}}
+{{defn|See ''{{gli|Y pipe}}''.}}
+
+{{term|[[bucket seat]]}}
+{{defn|}}
+
+{{term|[[bullbar]]}}
+{{defn|}}
+{{ghat|Also '''push bumper'''.}}
+
+{{term|[[bumper (car)|bumper]]}}
+{{defn|}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==C==
+{{glossary}}
+{{term|caliper}}
+{{ghat|Also '''calliper''', '''floating caliper''', or '''swinging caliper'''.}}
+{{defn|In a {{gli|disc brake}} system, the mechanism that brings the {{gli|brake pads}} to bear on disc by a clamping or pinching action.<ref name="Goodsell"/>}}
+
+{{term|[[camber angle]]}}
+{{defn|The angle between the plane defined by the circumference of the wheels and the vertical axis of the body or {{gli|chassis}} of a vehicle, as viewed from the front or rear of the vehicle. If the top of the wheel is tilted outward, away from the body, the wheel is said to have ''positive camber''; if the top is tilted inward, towards the body, it is said to have ''negative camber''. Angled wheels are sometimes an intentional part of a vehicle's design, but most ordinary road vehicles are intended to have minimal or neutral camber (i.e. the wheels are completely parallel to the body and perpendicular to the road surface).}}
+
+{{term|[[carburetor]]}}
+{{defn|}}
+
+{{term|[[carputer]]}}
+{{defn|}}
+
+{{term|[[caster angle]]}}
+{{ghat|Also '''castor angle'''.}}
+{{defn|The angular displacement of the {{gli|steering axis}} from the vertical axis of a steered {{gli|wheel}}, as seen from the side of the vehicle.}}
+
+{{term|[[catalytic converter]]}}
+{{defn|}}
+
+{{term|[[center cap]]}}
+{{ghat|Also '''centercap'''.}}
+{{defn|}}
+
+{{term|[[center console (automobile)|center console]]}}
+{{ghat|Also '''centre console'''.}}
+{{defn|}}
+
+{{term|[[chassis]]}}
+{{ghat|Also '''vehicle frame'''.}}
+{{defn|The structural lower part of a vehicle to which the {{gli|running gear}} and {{gli|body}} are attached,<ref name="Goodsell"/> or more generally the main load-bearing framework which supports all of a vehicle's mechanical parts and other components and on which the body is mounted.<ref name="Car and Driver"/> Compare ''{{gli|rolling chassis}}''.}}
+
+{{term|[[choke valve|choke]]}}
+{{ghat|Also '''choke valve''' or '''strangler'''.}}
+{{defn|A valve that restricts the amount of air entering an {{gli|internal combustion engine|engine}} on the {{gli|induction stroke}}, thereby enriching the fuel-to-air ratio for ease of starting and running, especially when the engine is cold.<ref name="Goodsell"/>}}
+
+{{term|clearance volume}}
+{{defn|The volume remaining in a {{gli|cylinder}} above the {{gli|piston}} when it reaches {{gli|top dead center}}.<ref name="Goodsell"/> See also ''{{gli|swept volume}}''.}}
+
+{{term|clocking}}
+{{defn|Illegally tampering with a vehicle's {{gli|odometer}} reading.<ref name="Goodsell"/>}}
+
+{{term|[[clockspring]]}}
+{{defn|}}
+
+{{term|[[clutch]]}}
+{{defn|}}
+
+{{term|[[cold cranking amp]]}}
+{{defn|}}
+
+{{term|[[cold inflation pressure]]}}
+{{defn|}}
+
+{{term|[[combustion chamber]]}}
+{{defn|The part of an {{gli|internal combustion engine}} in which [[combustion]] occurs; in particular the space within a {{gli|cylinder}} bounded by the top of the {{gli|piston}} when at {{gli|top dead center}} and the {{gli|cylinder head}} in a reciprocating engine. Since most of the fuel/air mixture's combustion takes place in this space, its volume, shape, and design greatly affect the power, {{gli|fuel efficiency}}, and {{gli|emissions}} of the engine.<ref name="Car and Driver"/>}}
+
+{{term|[[compression ratio]]}}
+{{defn|The ratio between the maximum and minimum combined volume of an internal combustion engine's {{gli|cylinder}} and {{gli|combustion chamber}}.}}
+
+{{term|[[continuously variable transmission]] (CVT)}}
+{{defn|}}
+
+{{term|[[coolant]]}}
+{{defn|Any substance, usually a liquid, that is circulated around a vehicle's engine in order to reduce and regulate temperature by absorbing excess heat and then transferring it to another medium (e.g. the surrounding air) where it is safely and efficiently dissipated. An ideal automotive coolant has high thermal capacity, low viscosity, and is chemically inert and non-toxic; though specific properties can vary widely by intended usage, most ordinary personal vehicles use water as the base coolant with additives such as [[ethylene glycol]] or [[methanol]] to lower its freezing point, raise its boiling point, and prevent corrosion.<ref name="Lane"/>}}
+
+{{term|cornering}}
+{{defn|}}
+
+{{term|[[cowling]]}}
+{{defn|}}
+
+{{term|[[crankcase]]}}
+{{defn|The housing that surrounds the {{gli|crankshaft}}.}}
+
+{{term|[[crankshaft]]}}
+{{defn|A linear shaft that translates [[reciprocating motion]] created by the {{gli|pistons}} of an engine into [[rotational motion]] via a series of "crank throws" or "crankpins" – additional bearing surfaces which are slightly offset from that of the shaft and which are attached to the connecting rods of the pistons. The crankshaft is often attached to a {{gli|flywheel}} and vibrational dampers to reduce the pulsation characteristic of {{gli|four-stroke engine|four-stroke cycles}} and other undesirable movement.}}
+[[File:Cshaft.gif|thumb|right|A flat-plane '''{{gli|crankshaft}}''' (red) is turned by the forward-and-back motion of four {{gli|pistons}} (grey) as they move within the engine's {{gli|cylinders}} (blue)]]
+
+{{term|crankshaft journal}}{{anchor|journal|journals}}
+{{defn|The part of the {{gli|crankshaft}} that rotates in a main bearing,<ref name="Lane"/> with connecting rods attached to the engine's pistons.}}
+
+{{term|crankshaft throw}}
+{{ghat|Also '''crank throw'''.}}
+{{defn|The lateral distance between the centerline of the {{gli|crankshaft}} and the furthest offset of a big end {{gli|journal}}, equivalent to half the length of a {{gli|piston}} stroke;<ref name="Lane"/> i.e. the distance by which the journals are offset from the main shaft.}}
+
+{{term|crossfiring}}
+{{defn|}}
+
+{{term|[[crossflow cylinder head]]}}
+{{defn|}}
+
+{{term|[[crossmember]]}}
+{{defn|}}
+
+{{term|[[curb weight]]}}
+{{defn|See ''{{gli|kerb weight}}''.}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==D==
+{{glossary}}
+{{term|[[dashboard]]}}
+{{ghat|Also '''fascia''' or simply '''dash'''.}}
+{{defn|}}
+
+{{term|[[differential (mechanical device)|differential]]}}
+{{defn|A system of gears capable of dividing the input [[torque]] of one shaft between two output shafts where the two shafts are likely to rotate at different speeds, as in {{gli|cornering}}. The differential is used as the final drive of vehicles with two or more {{gli|drive wheel|driven wheels}}.<ref name="Goodsell"/>}}
+
+{{term|[[dipstick]]}}
+{{defn|See ''{{gli|oil level indicator}}''.}}
+
+{{term|[[disc brake]]}}
+{{defn|}}
+
+{{term|[[dispersant]]}}
+{{ghat|Also '''dispersing agent'''.}}
+{{defn|A {{gli|motor oil}} additive which separates and holds solid or liquid contaminants in suspension, preventing their settling or clumping and thereby reducing {{gli|sludge}} deposition in the engine.<ref name="Goodsell"/>}}
+
+{{term|[[engine displacement|displacement]]}}
+{{defn|The total volume swept by all of the {{gli|pistons}} in all of the {{gli|cylinders}} of an {{gli|internal combustion engine}}, excluding the volume of the {{gli|combustion chambers}}. Engine displacement is commonly used as a measure of an engine's size, and by extension as an indicator of the power the engine is hypothetically capable of producing and the amount of fuel it can be expected to consume.}}
+
+{{term|displacement factor}}
+{{defn|An index of vehicle performance usually expressed as the product of the {{gli|engine displacement}} and {{gli|axle ratio}} divided by the product of the {{gli|drive wheel}} {{gli|rolling ratio}} and the vehicle's {{gli|gross vehicle weight|gross weight}}.<ref name="Goodsell"/>}}
+
+{{term|dive}}
+{{defn|The dipping of a vehicle's front end that occurs when the {{gli|brakes}} are applied. Dive is caused by a load transfer from the rear to the front {{gli|suspension}}, as the inertial force of forward motion passes through the vehicle's center of gravity, which is higher than the points where the braking forces are exerted on the ground.<ref name="Car and Driver"/>}}
+
+{{term|donut}}
+{{defn|See ''{{gli|spare tire}}''.}}
+
+{{term|drive axle}}
+{{ghat|Also '''live axle'''.}}
+{{defn|The {{gli|axle}} or axles used to transmit {{gli|torque}} from the {{gli|drivetrain}}, imparted via a {{gli|differential}}, to one or more {{gli|drive wheels}}; a driven axle.<ref name="Goodsell"/>}}
+
+{{term|[[drive shaft]]}}
+{{ghat|Also '''driving shaft''', '''tailshaft''', '''propeller shaft''', or '''Cardan shaft'''.}}
+{{defn|The shaft or shafts by which mechanical power and torque is transmitted from the rest of the {{gli|drivetrain}} to a {{gli|differential}} (and hence to a {{gli|drive axle|driven axle}} and {{gli|drive wheel|driven wheels}}).<ref name="Goodsell"/>}}
+
+{{term|[[drive wheel]]}}{{anchor|drive wheels|driven wheel|driven wheels}}
+{{defn|The wheel or wheels used to transform {{gli|torque}} from the {{gli|powertrain}} into [[tractive force]], and to transmit that force from the tires to the road, overcoming stationary forces and causing the vehicle to move forwards or backwards; i.e. the wheels that are driven, as opposed to merely rolling under the momentum imparted to them. Vehicles may have any combination of driven wheels; power applied to the two front wheels or two back wheels is {{gli|two-wheel drive}} (2WD), and power applied to all four wheels is {{gli|four-wheel drive}} (4WD). Which wheels are driven is variable in {{gli|all-wheel drive}} (AWD).}}
+
+{{term|drivebox}}
+{{defn|See ''{{gli|gearbox}}'' and ''{{gli|transmission}}''.}}
+
+{{term|[[drivetrain]]}}
+{{ghat|Also '''drive line'''.}}
+{{defn|All of the components of a motor vehicle that are involved in delivering power to the {{gli|drive wheels}}, excluding the {{gli|engine}} or motor that generates the power. The drivetrain typically includes the {{gli|clutch}} (if present), {{gli|transmission}}, {{gli|drive shaft}}, {{gli|differential}}, and one or more {{gli|axles}}. Contrast ''{{gli|powertrain}}''.}}
+
+{{term|drop arm}}
+{{defn|See ''{{gli|steering arm}}''.}}
+
+{{term|[[drum brake]]}}
+{{defn|}}
+
+{{term|[[dry clutch]]}}
+{{defn|}}
+
+{{term|[[dynamometer]]}}
+{{defn|}}
+
+{{glossary end}}
+
+==E==
+{{glossary}}
+{{term|econometer}}
+{{defn|An instrument that measures and displays instantaneous fuel consumption or {{gli|fuel efficiency}}.<ref name="Lane"/>}}
+
+{{term|[[economizer]]}}
+{{ghat|Also '''economiser'''.}}
+{{defn|Any device or system designed to reduce fuel consumption by preventing unnecessary energy expenditure or by repurposing energy that would otherwise be wasted to perform useful functions. The term commonly refers specifically to a system that automatically modifies the ratio of the {{gli|air/fuel mixture}} supplied to the engine in order to save fuel when {{gli|cruising}} at constant speed.<ref name="Lane"/>}}
+
+{{term|[[electric vehicle]]}}
+{{defn|}}
+
+{{term|[[electronic control unit]] (ECU)}}
+{{ghat|Also '''electronic control module (ECM)'''.}}
+{{defn|}}
+
+{{term|[[engine block]]}}
+{{defn|The structure, typically cast in one piece, which contains and houses the {{gli|cylinders}}, {{gli|pistons}}, and other components of an {{gli|internal combustion engine}}. Modern engine blocks usually also have an integrated {{gli|crankcase}}, as well as {{gli|coolant}} passages and {{gli|oil gallery|oil galleries}}.}}
+
+{{term|[[engine configuration]]}}
+{{defn|}}
+
+{{term|[[exhaust manifold]]}}
+{{defn|}}
+
+{{term|[[exhaust system]]}}
+{{defn|The assembly of parts that conveys the gaseous products of the {{gli|internal combustion engine|engine}}'s combustion reactions (collectively known as ''exhaust'') out of the combustion chambers, away from the engine, and ultimately into the atmosphere. In the most basic design, exhaust gases flow from each of the {{gli|cylinder}} heads into an {{gli|exhaust manifold}} and then through one or more {{gli|exhaust pipes}}, which expel their contents behind, above, or to the side of the vehicle. In modern systems, the exhaust may also flow through a {{gli|turbocharger}}, various {{gli|emissions}} control devices (e.g. a {{gli|catalytic converter}}), and/or a {{gli|muffler}} and {{gli|resonator}} (to reduce noise and vibration) before exiting through one or more {{gli|tailpipes}}.}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==F==
+{{glossary}}
+{{term|[[fan belt]]}}
+{{defn|The endless {{gli|belt}} that transmits rotational motion from the engine to the {{gli|cooling fan}}.}}
+
+{{term|[[fender (vehicle)|fender]]}}
+{{defn|no=1|The fixed part of a vehicle body exterior that frames the {{gli|wheel well}}, with the primary purpose of blocking sand, mud, rocks, liquids, and other {{gli|road spray}} that is thrown into the air by the rotating {{gli|tire}}; or any deflector plate or structure mounted at the front or rear of a vehicle near ground level.<ref name="Goodsell"/>}}
+{{defn|no=2|A fixed {{gli|side-panel}} that partially shrouds a tire from view and similarly serves to deflect road spray.<ref name="Goodsell"/>}}
+
+{{term|[[fifth-wheel coupling]]}}
+{{defn|}}
+
+{{term|[[firing order]]}}
+{{defn|The numbered sequence in which the {{gli|cylinders}} of a multi-cylinder {{gli|internal combustion engine}} are ignited.<ref name="Goodsell"/>}}
+
+{{term|[[flat engine]]}}
+{{defn|}}
+
+{{term|[[flathead engine]]}}
+{{defn|}}
+
+{{term|footprint}}
+{{defn|The shape of the contact interface of a loaded {{gli|tire}} with the ground.<ref name="Goodsell"/> See also ''{{gli|contact length}}''.}}
+
+{{term|footwell}}
+{{defn|The lower interior part of the {{gli|scuttle}}, which accommodates the feet of the driver and the front passenger, as well as the {{gli|foot pedals}} and often other control features on the {{gli|driver's side}}.<ref name="Goodsell"/>}}
+
+{{term|[[four-stroke engine]]}}
+{{defn|}}
+
+{{term|[[four-wheel drive]] (4WD)}}
+{{defn|A {{gli|drivetrain}} system in which torque generated by the engine is delivered simultaneously to all four {{gli|wheels}} of a four-wheeled vehicle. Thus all four wheels are {{gli|drive wheels}}, as opposed to {{gli|two-wheel drive}}, in which only one pair of wheels receives power at a time (either the front or rear wheels). Four-wheel drive can provide greater {{gli|traction}} when road conditions are suboptimal, but typically has negative effects on {{gli|fuel efficiency}} and {{gli|handling}} at speed. It may be either permanent or selectable on-demand; in the latter case it is often referred to as {{gli|all-wheel drive}}.}}
+
+{{term|[[frame (vehicle)|frame]]}}
+{{defn|}}
+
+{{term|friction clutch}}
+{{defn|A type of {{gli|clutch}} in which torque is transmitted by pressure of the clutch faces on each other.<ref name="Lane"/>}}
+
+{{term|[[front-wheel drive]] (FWD)}}
+{{defn|A {{gli|two-wheel drive}} {{gli|drivetrain}} system in which torque generated by the engine is delivered only to the two {{gli|wheels}} at the forward end of the vehicle, as opposed to {{gli|rear-wheel drive}} and distinct from {{gli|four-wheel drive}}.}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==G==
+{{glossary}}
+{{term|[[Accelerator pedal|gas pedal]]}}
+{{defn|See ''{{gli|accelerator}}''.}}
+
+{{term|[[gearbox]]}}
+{{defn|}}
+
+{{term|[[gear stick]]}}
+{{defn|}}
+
+{{term|[[glove compartment]]}}
+{{ghat|Also '''glove box'''.}}
+{{defn|A compartment built into the {{gli|dashboard}} of an automobile above the front-seat passenger's {{gli|footwell}}, often used to store miscellaneous items such as small tools and paperwork and, traditionally, {{gli|driving gloves}}. The compartment usually closes with a latch and in some vehicles can be locked with a key.}}
+
+{{term|[[Glow plug (diesel engine)|glow plug]]}}
+{{defn|}}
+
+{{term|governor}}
+{{ghat|Also '''overspeed governor'''.}}
+{{defn|A device which limits the maximum rotational speed of an {{gli|internal combustion engine}}, usually by controlling the fuel supply, in order to prevent mechanical damage, overheating, or unacceptable levels of {{gli|emission|exhaust emissions}}. They are used primarily in {{gli|diesel engines}}.<ref name="Goodsell"/>}}
+
+{{term|gradeability}}
+{{defn|A measure of the ability of a vehicle to ascend an incline of a specified [[grade (slope)|grade]].<ref name="Goodsell"/>}}
+
+{{term|[[grille (car)|grille]]}}
+{{defn|A grid or grating covering an opening in the body of a vehicle and allowing air to pass through it, especially an ornamental one at the front end of a vehicle designed to ventilate the {{gli|radiator}} and engine compartment.}}
+
+{{term|gross axle weight}}
+{{ghat|Also '''gross axle weight rating (GAWR)'''.}}
+{{defn|The specified maximum carrying capacity of an {{gli|axle}}, as measured at the tire–road interface.<ref name="Goodsell"/>}}
+
+{{term|gross power}}
+{{defn|The total measured power output, typically expressed in [[watt]]s or {{gli|horsepower}}, of an intact, unmodified {{gli|engine}} operating in optimal conditions without the burden of any power-absorbing auxiliaries such as electric generators, pumps, or silencers.<ref name="Goodsell"/>}}
+
+{{term|[[gross train weight]]}}
+{{defn|The total combined weight of the {{gli|tractor}} and {{gli|trailer}} of a commercial vehicle.<ref name="Goodsell"/>}}
+
+{{term|[[gross vehicle weight]] (GVW)}}
+{{defn|The maximum total weight at which a vehicle can be legally operated, including the {{gli|kerb weight}} plus the weight of any payload.<ref name="Goodsell"/>}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==H==
+{{glossary}}
+{{term|handbrake}}
+{{defn|Any {{gli|brake}} operated manually by a hand lever, but especially a {{gli|parking brake}}.}}
+
+{{term|[[automobile handling|handling]]}}
+{{defn|}}
+
+{{term|[[headlamp]]}}
+{{defn|}}
+
+{{term|[[headlight]]}}
+{{defn|}}
+
+{{term|heat soak}}
+{{defn|}}
+
+{{term|[[hidden headlamp]]}}
+{{ghat|Also '''pop-up headlamp''', '''flip-eye headlamp''', and '''hideaway headlight'''.}}
+{{defn|A style of {{gli|headlamp}} on some vehicles which allows the headlamps to be retracted and concealed when they are not in use.}}
+
+{{term|[[hood (vehicle)|hood]]}}
+{{ghat|Also '''bonnet'''.}}
+{{defn|The hinged cover over the {{gli|internal combustion engine|engine}} compartment of a motor vehicle. Hoods can be opened to allow access to the engine and most other power and accessory components for maintenance and repair.}}
+
+{{term|[[horsepower]] (hp)}}
+{{defn|}}
+
+{{term|hub}}
+{{defn|The central portion of a {{gli|wheel}}, by which the wheel is fastened to the vehicle's {{gli|chassis}}.}}
+
+{{term|[[hubcap]]}}{{anchor|hubcaps}}
+{{ghat|Also '''hub cap'''.}}
+{{defn|A round plastic or metal disk which covers all or part of the exterior face of a {{gli|wheel}}, particularly the central {{gli|hub}}, in order to protect the fasteners which attach the wheel to the vehicle's {{gli|chassis}} from dirt and moisture. Hubcaps are often decorative.}}
+
+{{term|[[hybrid vehicle]]}}
+{{defn|}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==I==
+{{glossary}}
+{{term|idle port}}
+{{defn|An opening in the {{gli|throttle}} body through which the {{gli|carburetor}} dispenses fuel while the engine is {{gli|idling}}, i.e. while the throttle is otherwise fully closed.<ref name="Lane"/>}}
+
+{{term|[[idle speed]]}}
+{{ghat|Also '''tick over'''.}}
+{{defn|The rotational speed of an unloaded engine at the minimum {{gli|throttle}} setting.<ref name="Goodsell"/>}}
+
+{{term|[[idler arm]]}}
+{{defn|}}
+
+{{term|[[idle (engine)|idling]]}}
+{{defn|Running a vehicle's engine while the vehicle is not in motion, without any loads except the engine accessories, e.g. while waiting at a traffic light.}}
+
+{{term|[[ignition coil]]}}
+{{defn|}}
+
+{{term|[[ignition switch]]}}
+{{defn|}}
+
+{{term|[[straight engine|inline engine]]}}
+{{ghat|Also '''straight engine'''.}}
+{{defn|An {{gli|internal combustion engine}} layout in which all {{gli|cylinders}} are aligned in one row without any offset, i.e. in a single plane of the {{gli|crankshaft}} axis. Inline layouts tend to be simpler in design and easier to build than {{gli|flat engine|flat}} or {{gli|V engine|V-shaped}} layouts, smaller in physical dimension, and more broadly compatible with various engine designs because they can be mounted in any direction.<ref name="Goodsell"/>}}
+
+{{term|instrument panel}}
+{{defn|}}
+
+{{term|[[intake manifold]]}}
+{{ghat|Also '''inlet manifold'''.}}
+{{defn|}}
+
+{{term|[[internal combustion engine]]}}
+{{defn|}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==J==
+{{glossary}}
+{{term|jacking bracket}}
+{{defn|}}
+
+{{term|[[jumper cable|jump lead]]}}
+{{ghat|Also '''jumper cable'''.}}
+{{defn|One of a pair of heavy-duty electrical leads by which a vehicle with a discharged battery may be connected to an external source of power, such as a charged battery in another vehicle, in order to recharge the dead battery, a process known as a {{gli|jump start}}.<ref name="Goodsell"/>}}
+
+{{term|[[jump start (vehicle)|jump start]]}}
+{{ghat|Also '''boost''' or simply '''jump'''.}}
+{{defn|A procedure of starting the engine of a vehicle with a discharged or depleted battery by using {{gli|jump lead|jump leads}} from a charged battery or other external power source.<ref name="Goodsell"/>}}
+
+{{glossary end}}
+
+==K==
+{{glossary}}
+{{term|[[kerb weight]]}}
+{{ghat|Also '''curb weight'''.}}
+{{defn|The total mass of an unladen vehicle including standard equipment and all consumables necessary for operation, including water, {{gli|motor oil}}, {{gli|transmission fluid}}, {{gli|brake fluid}}, {{gli|coolant}}, etc., and (sometimes) a full tank of fuel, but excluding passengers and cargo. The precise definition varies by location. Compare ''{{gli|gross vehicle weight}}''.<ref name="Goodsell"/>}}
+
+{{term|keyless entry}}
+{{defn|}}
+
+{{term|kickdown}}
+{{ghat|Also '''forced downshift'''.}}
+{{defn|A system that enables a driver to select a lower gear than the one automatically engaged by an {{gli|automatic transmission}}, e.g. when accelerating rapidly, usually by depressing the {{gli|accelerator}} pedal fully.<ref name="Goodsell"/>}}
+
+{{term|[[kingpin (automotive part)|kingpin]]}}
+{{ghat|Also '''fulcrum pin''', '''knuckle pin''', and '''pivot pin'''.}}
+{{defn|no=1|The vertical or inclined shaft about which a {{gli|steered wheel}} assembly pivots.<ref name="Goodsell"/>}}
+{{defn|no=2|The main fastening member between a {{gli|fifth-wheel}} and {{gli|semi-trailer}}.<ref name="Goodsell"/>}}
+
+{{term|[[octane rating|knock rating]]}}
+{{defn|See ''{{gli|octane rating}}''.}}
+
+{{term|[[engine knocking|knocking]]}}
+{{defn|}}
+
+{{term|knockout axle}}
+{{defn|A type of detachable {{gli|axle}}, usually on a {{gli|low-loader}}, the removal of which allows further lowering of the loading bed.<ref name="Goodsell"/>}}
+
+{{glossary end}}
+
+==L==
+{{glossary}}
+{{term|[[leaf spring]]}}
+{{defn|}}
+
+{{term|lifting axle}}
+{{defn|}}
+
+{{term|[[limited-slip differential]]}}
+{{defn|}}
+
+{{term|[[locking differential]]}}
+{{defn|}}
+
+{{term|[[longitudinal engine]]}}
+{{defn|}}
+
+{{term|lugnut}}
+{{defn|}}
+
+{{glossary end}}
+
+==M==
+{{glossary}}
+{{term|main drive belt}}
+{{defn|See ''{{gli|serpentine belt}}''.}}
+
+{{term|[[make (automobile)|make]]}}
+{{defn|The manufacturer of a particular vehicle.<ref name="Lane"/>}}
+
+{{term|[[manual transmission]]}}
+{{defn|}}
+
+{{term|[[manumatic]]}}
+{{defn|}}
+
+{{term|[[marque]]}}
+{{defn|}}
+
+{{term|model}}
+{{defn|The specific style, size, and/or type of a particular vehicle produced by a particular manufacturer;<ref name="Lane"/> the set of features and design elements which unify a particular class of vehicles produced by a manufacturer. See also ''{{gli|marque}}''.}}
+
+{{term|moonroof}}
+{{defn|}}
+
+{{term|[[motor oil]]}}
+{{ghat|Also '''engine oil''' or '''engine lubricant'''.}}
+{{defn|Any of various viscous liquids used to lubricate the mechanical components of an {{gli|internal combustion engine}}, with the primary purposes of reducing friction and wear on moving parts, cleaning and preventing the accumulation of {{gli|sludge}} and {{gli|varnish}}, improving the static seal created by {{gli|gaskets}} and {{gli|piston rings}}, and cooling the engine by carrying heat away from the moving parts. Modern commercial motor oils typically consist of a mixture of [[base oil]]s produced from crude petroleum and enhanced with various additives, including {{gli|detergents}}, {{gli|dispersants}}, and other chemical protectants, which is then circulated under pressure through {{gli|oil galleries}} in the {{gli|engine block}}.}}
+
+{{term|[[muffler]]}}{{anchor|mufflers}}
+{{defn|}}
+
+{{term|multivalve engine}}
+{{defn|An {{gli|engine}} having more than the conventional one {{gli|intake valve}} and one {{gli|exhaust valve}} in each {{gli|cylinder}}, a design intended to increase the flow of fuel-air mixture into the cylinders and of exhaust gases out of them.<ref name="Lane"/>}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==N==
+{{glossary}}
+{{term|[[nave]]}}
+{{defn|no=1|The hollow or dished center part of a road wheel on which the {{gli|rim}} is mounted.<ref name="Goodsell"/>}}
+{{defn|no=2|The face of a road wheel that is bolted to the {{gli|hub}}.<ref name="Goodsell"/>}}
+
+{{term|nave cap}}
+{{defn|See ''{{gli|hub cap}}''.}}
+
+{{term|neutral (N)}}
+{{defn|A {{gli|gear selector}} position in which no gear is engaged, such that there is no transmission of torque between the input and output shafts of the {{gli|gearbox}}.<ref name="Lane">{{cite book|author-first=Keith|author-last=Lane|title=Automotive A–Z: Lane's Complete Dictionary of Automotive Terms|date=2002|publisher=Veloce|location=Dorchester|isbn=1-901295-92-3}}</ref> The neutral position effectively disconnects the {{gli|driveline}} between the engine and the wheels. Power may still be generated by the engine, but it cannot be delivered to the wheels; unless {{gli|braking}} prevents it, the wheels of a vehicle in neutral are still capable of rotating in either direction under the momentum imparted by any external force.}}
+
+{{term|north-south}}
+{{defn|Describing an engine layout in which the {{gli|cylinders}} are arranged along the vehicle's longitudinal axis, from front to rear, as opposed to an {{gli|east-west}} layout.<ref name="Lane"/>}}
+
+{{term|noseweight}}
+{{defn|}}
+
+{{glossary end}}
+
+==O==
+{{glossary}}
+{{term|[[octane rating]]}}
+{{defn|}}
+
+{{term|[[odometer]]}}
+{{defn|}}
+
+{{term|[[off-road vehicle]]}}
+{{defn|Any vehicle capable of or specifically designed for traveling on unpaved, uneven, and/or low-traction surfaces such as gravel, sand, mud, snow, rocks, or other natural terrain, especially a vehicle having {{gli|four-wheel drive}}, long {{gli|suspension}}, high {{gli|ground clearance}}, and specialized {{gli|tires}} such that it performs well on these surface types, with lesser risk of being damaged or immobilized than an ordinary street vehicle.<ref name="Lane"/>}}
+
+{{term|[[oil filter]]}}
+{{defn|A filter designed to trap and remove particulate contaminants from {{gli|engine oil}}, {{gli|transmission oil}}, hydraulic oil, or any other lubrication system.}}
+
+{{term|oil gallery}}
+{{defn|Any space or passage within an {{gli|engine block}}, {{gli|crankcase}}, or {{gli|cylinder head}} through which {{gli|oil}} is intended to flow under pressure.<ref name="Lane"/>}}
+
+{{term|oil gauge}}
+{{defn|An instrument that measures and displays the instantaneous pressure and/or temperature of the {{gli|oil}} circulating within a lubrication system, especially {{gli|engine oil}}.}}
+
+{{term|oil level indicator}}
+{{ghat|Also '''dipstick'''.}}
+{{defn|A long, flexible metal rod with graduated markings that is manually inserted into and then removed from the motor oil reservoir in order to give an approximate measure of the amount of oil in the reservoir.}}
+
+{{term|[[oil pan]]}}
+{{defn|}}
+
+{{term|[[Oil pump (internal combustion engine)|oil pump]]}}
+{{defn|An electrically powered device which pressurizes and distributes {{gli|oil}} to all parts of a lubrication system. When not otherwise qualified the term usually refers to the {{gli|engine oil}} pump.}}
+
+{{term|[[on-board diagnostics]] (OBD)}}
+{{defn|}}
+
+{{term|[[overdrive (mechanics)|overdrive]]}}
+{{defn|}}
+
+{{term|[[overhead valve engine]] (OHV)}}
+{{defn|}}
+
+{{term|overspeed governor}}
+{{defn|See ''{{gli|governor}}''.}}
+
+{{term|[[oversteer]]}}
+{{defn|}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==P==
+{{glossary}}
+{{term|[[parking brake]]}}
+{{ghat|Also '''handbrake''' and '''emergency brake''' ('''e-brake''').}}
+{{defn|A mechanism used to keep a vehicle securely motionless when parked, generally consisting of a cable connecting two conventional wheel {{gli|brake|brakes}} (usually on the rear wheels) to a pulling mechanism in the vehicle's cab, typically either a hand-operated lever or handle located near the {{gli|steering column}} or a foot-operated pedal near the other pedals.}}
+
+{{term|[[piston]]}}
+{{defn|}}
+
+{{term|[[car platform|platform]]}}
+{{defn|A set of common design, engineering, and production efforts, as well as major automotive components, shared between a number of outwardly distinct vehicle models and even different vehicle classes which are often manufactured by different though usually related {{gli|marque|marques}}. Auto manufacturers commonly introduce new models based on existing platforms in order to reduce the costs associated with the development of entirely new products.}}
+
+{{term|[[backlash (engineering)|play]]}}
+{{ghat|Also '''backlash''', '''lash''', or '''slop'''.}}
+{{defn|Free movement or looseness within a mechanical system, especially when not intended by the mechanism's design, e.g. any motion of a {{gli|steering wheel}} before the {{gli|steered wheel|steered wheels}} respond by turning.<ref name="Goodsell"/>}}
+
+{{term|[[power locks]]}}
+{{defn|}}
+
+{{term|[[power steering]]}}
+{{defn|}}
+
+{{term|power stroke}}
+{{ghat|Also '''combustion stroke''', '''working stroke''', or '''expansion stroke'''.}}
+{{defn|The {{gli|stroke}} of a reciprocating engine during which the {{gli|piston}} is forced outward by the immense pressure generated by the combustion of fuel in the {{gli|combustion chamber}}, typically considered to include that part of the cycle during which the piston moves from {{gli|top dead center}} to {{gli|bottom dead center}}.<ref name="Goodsell"/>}}
+
+{{term|[[power windows]]}}
+{{defn|}}
+
+{{term|[[powertrain]]}}
+{{defn|}}
+
+{{term|[[powertrain control module]] (PCM)}}
+{{defn|}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==R==
+{{glossary}}
+{{term|[[rack and pinion]]}}
+{{defn|A type of [[linear actuator]] comprising a circular gear (the ''pinion'') engaging a linear gear (the ''rack''), which operate together to translate rotational motion into linear motion or vice versa: rotating the pinion causes the rack to be driven linearly, and driving the rack linearly causes the pinion to rotate. Rack-and-pinion mechanisms have been employed in many different automotive systems and components, as in {{gli|rack-and-pinion steering}}.}}
+
+{{term|[[radiator]]}}
+{{defn|A heat exchanger that serves to cool the {{gli|engine block}} by pumping spent {{gli|coolant}} (previously heated by the engine) through a system of tubes which are then exposed to relatively cool air from the vehicle's exterior, often by way of a {{gli|fan}} blowing air over them, thereby transferring excess thermal energy from the engine to the air.}}
+
+{{term|radiator fan}}
+{{defn|One or more sets of fan blades situated behind the {{gli|grille}} which serve to move air from the exterior around the tubes of the {{gli|radiator}}, thereby dissipating heat from the engine block.}}
+
+{{term|[[rear-view mirror]]}}
+{{defn|}}
+
+{{term|[[rear-wheel drive]] (RWD)}}
+{{defn|A {{gli|two-wheel drive}} {{gli|drivetrain}} system in which torque generated by the engine is delivered only to the two {{gli|wheels}} at the rear end of the vehicle, as opposed to {{gli|front-wheel drive}} and distinct from {{gli|four-wheel drive}}.}}
+
+{{term|[[redline]]}}
+{{defn|no=1|The maximum [[rotational speed]], in revolutions per minute (rpm), at which an {{gli|internal combustion engine}} or {{gli|traction motor}} and its components are designed to operate without causing damage to the components themselves or to other parts of the engine assembly. The redline of a particular engine depends on various factors such as {{gli|stroke}}, {{gli|displacement}}, and the mass, composition, and balance of the engine components. The term is derived from the red-colored line or colored sector of a {{gli|tachometer}} display which indicates the maximum allowable sustained engine speed.<ref name="Car and Driver">{{cite web|url=https://www.caranddriver.com/features/a16581035/car-terms-defined/|title=Glossary of Car Terms|website=caranddriver.com|date=15 June 2009|access-date=24 October 2021|archive-date=22 August 2023|archive-url=https://web.archive.org/web/20230822184903/https://www.caranddriver.com/features/a16581035/car-terms-defined/|url-status=live}}</ref>}}
+{{defn|no=2|To operate a vehicle above its engine's redline. Straying above the redline usually does not mean instant engine failure, but may increase the chances of damaging the engine.}}
+
+{{term|[[remote keyless system]] (RKS)}}
+{{defn|}}
+
+{{term|remote start}}
+{{defn|}}
+
+{{term|[[roadworthy]]}}
+{{ghat|Also '''streetworthy'''.}}
+{{defn|Describing a vehicle which is in suitable operating condition to be safely used on public roads, in which all parts are mechanically sound such that no part contravenes accepted standards for safe driving or transport of people or cargo or any other road transport regulation.<ref name="Lane"/> The term often implies that the vehicle is {{gli|street-legal}}.}}
+
+{{term|rolling ratio}}
+{{defn|}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==S==
+{{glossary}}
+{{term|scuttle}}
+{{defn|}}
+
+{{term|[[semi-automatic transmission]]}}
+{{defn|}}
+
+{{term|[[siping (rubber)|siping]]}}
+{{defn|}}
+
+{{term|[[sludge]]}}
+{{defn|}}
+
+{{term|soak time}}
+{{defn|}}
+
+{{term|solenoid switch}}
+{{defn|}}
+
+{{term|solid injection}}
+{{defn|See ''{{gli|airless injection}}''.}}
+
+{{term|[[spare tire]]}}
+{{defn|}}
+
+{{term|[[spark ignition]]}}
+{{defn|A system that uses a high-voltage electrical arc or "spark" to ignite a fuel/air mixture.<ref name="Goodsell"/>}}
+
+{{term|[[spark plug]]}}
+{{defn|An insulated plug that supports the electrodes between which the electrical arc or "spark" passes to initiate ignition of a {{gli|spark ignition|spark-ignition}} engine.<ref name="Goodsell"/>}}
+
+{{term|[[speedometer]]}}
+{{defn|A gauge that measures and displays the instantaneous speed of a vehicle. Universal in modern automobiles and typically mounted on the {{gli|dashboard}} behind the {{gli|steering wheel}}.}}
+
+{{term|[[spoiler (automotive)|spoiler]]}}
+{{defn|}}
+
+{{term|[[steering column]]}}
+{{defn|}}
+
+{{term|[[steering wheel]]}}
+{{defn|}}
+
+{{term|stick shift}}
+{{defn|See ''{{gli|manual transmission}}''.}}
+
+{{term|[[straight engine]]}}
+{{defn|See ''{{gli|inline engine}}''.}}
+
+{{term|[[choke valve|strangler]]}}
+{{defn|See ''{{gli|choke}}''.}}
+
+{{term|[[street-legal]]}}
+{{defn|}}
+
+{{term|[[stroke (engine)|stroke]]}}
+{{defn|}}
+
+{{term|[[subframe]]}}
+{{defn|}}
+
+{{term|[[sun visor]]}}
+{{defn|}}
+
+{{term|[[supercharger]]}}
+{{defn|}}
+
+{{term|[[suspension (vehicle)|suspension]]}}
+{{defn|}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==T==
+{{glossary}}
+{{term|[[tachometer]]}}
+{{defn|An instrument which measures the rotational speed of a shaft or disk, as of an engine, and/or the analogue dial or digital device which displays this measured speed, usually in {{gli|revolutions per minute}} (RPM).}}
+
+{{term|[[3-way tailgate|tailgate]]}}
+{{defn|}}
+
+{{term|[[tailpipe]]}}
+{{ghat|Also '''tail pipe''' and '''kick-up pipe'''.}}
+{{defn|The rearmost pipe of an {{gli|exhaust system}}, downstream of the rear {{gli|muffler}}, by which most or all of the vehicle's {{gli|exhaust}} gases exit the system.<ref name="Goodsell"/> The term is also sometimes used to refer to intermediate pipes. Large vehicles may have more than one tailpipe.}}
+
+{{term|[[telematic control unit]] (TCU)}}
+{{defn|}}
+
+{{term|[[telematics]]}}
+{{defn|The range of electronic signals, displays, controls, and information provided to drivers so as to make driving easier and safer, whether inside the vehicle, on other vehicles, or on the roadside;<ref name="Lane"/> or the interdisciplinary field that studies the implementation of these technologies. Examples include {{gli|turn signals}}, {{gli|brake lights}}, {{gli|hazard lights}}, digital {{gli|instrument panels}}, and any of the wide variety of features offered by {{gli|onboard computer}} systems, such as {{gli|turn-by-turn navigation}} and {{gli|proximity sensors}}.}}
+
+{{term|[[throttle]]}}
+{{defn|}}
+
+{{term|[[tie rod]]}}
+{{defn|}}
+
+{{term|[[tire]]}}
+{{ghat|Also '''tyre'''.}}
+{{defn|}}
+
+{{term|[[tire balance]]}}
+{{defn|}}
+
+{{term|[[tire pressure]]}}
+{{defn|}}
+
+{{term|[[tire rotation]]}}
+{{defn|The practice of periodically moving the {{gli|wheels}} and {{gli|tires}} of an automobile from one position to another on the same vehicle in order to ensure that all of the vehicle's tires receive approximately the same amount of wear over time; i.e. that no particular tire wears out more quickly than any other. This is a consequence of the fact that a tire's lifespan is often strongly biased by its particular position on the vehicle (e.g. front or rear, driver's side or passenger side) because the masses supported by and the forces applied to different parts of the vehicle are often uneven; for example, in {{gli|front-engine}} vehicles, the front axle typically supports a much greater load than the rear axle, meaning the tires on its wheels experience different forces that may cause their {{gli|tread}} to wear out faster than the tread on the rear tires.}}
+
+{{term|[[torque]]}}
+{{defn|}}
+
+{{term|[[traction (engineering)|traction]]}}
+{{defn|}}
+
+{{term|[[traction control system]] (TCS)}}
+{{ghat|Also simply '''traction control'''.}}
+{{defn|}}
+
+{{term|[[trafficator]]}}
+{{defn|}}
+
+{{term|[[transaxle]]}}
+{{defn|}}
+
+{{term|[[transbrake]]}}
+{{defn|}}
+
+{{term|[[transfer case]]}}
+{{defn|}}
+
+{{term|[[transmission (mechanics)|transmission]]}}
+{{defn|}}
+
+{{term|[[transmission control unit]] (TCU)}}
+{{defn|}}
+
+{{term|[[transmission fluid]]}}
+{{defn|}}
+
+{{term|[[transmission tunnel]]}}
+{{defn|}}
+
+{{term|[[transverse engine]]}}
+{{defn|An {{gli|engine}} mounted inside a vehicle so that the axis of the {{gli|crankshaft}} is perpendicular to the direction of travel. This {{gli|configuration}} is common in {{gli|front-wheel drive}} passenger vehicles. Contrast ''{{gli|longitudinal engine}}''.}}
+
+{{term|[[Trim level (automotive)|trim level]]}}
+{{defn|}}
+
+{{term|[[trunk (automobile)|trunk]]}}
+{{ghat|Also '''boot''', '''hatch''', or '''tailgate'''.}}
+{{defn|The primary storage or cargo compartment inside an automobile, especially a large interior space at the rear of the vehicle that is accessible from the exterior by one or more dedicated doors or hatches.}}
+
+{{term|[[turbocharger]]}}
+{{defn|}}
+
+{{term|[[turn signal]]}}
+{{defn|}}
+
+{{term|[[two-stroke engine]]}}
+{{defn|}}
+
+{{term|[[two-wheel drive]] (2WD)}}
+{{defn|A {{gli|drivetrain}} system in which torque generated by the engine is delivered to only one pair of {{gli|wheels}} at a time, either the {{gli|front-wheel drive|two front}} or {{gli|rear-wheel drive|two rear}} wheels. Thus there are exactly two {{gli|driven wheels}}, while the other two wheels merely roll under the momentum imparted to them and do not create tractive force of their own. This is in contrast to {{gli|four-wheel drive}} (4WD), in which all four wheels receive power simultaneously. Some vehicles are only capable of two-wheel drive such that it is permanent, while in others it is a {{gli|all-wheel drive|selectable mode}}, with the vehicle capable of switching between two-wheel drive and four-wheel drive on-demand.}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==U==
+{{glossary}}
+{{term|undercarriage}}
+{{defn|The wheels, axles, and {{gli|suspension}} system of a vehicle, particularly a commercial vehicle; more generally, all of the parts of an automobile accessible from the underside of the vehicle.<ref name="Goodsell"/>}}
+
+{{term|underdrive pulley}}
+{{defn|}}
+
+{{term|[[understeer]]}}
+{{defn|}}
+
+{{term|[[unsprung mass]]}}
+{{defn|}}
+
+{{glossary end}}
+
+==V==
+{{glossary}}
+{{term|[[V engine]]}}
+{{defn|}}
+
+{{term|[[valvetrain]]}}
+{{defn|}}
+
+{{term|[[vehicle identification number]] (VIN)}}
+{{defn|}}
+
+{{glossary end}}
+
+==W==
+{{glossary}}
+{{term|[[wheel alignment]]}}
+{{defn|}}
+
+{{term|[[wheel well]]}}
+{{defn|See ''{{gli|fender}}''.}}
+
+{{term|[[wheelbase]]}}
+{{defn|The longitudinal distance between the front and rear wheel axes of a vehicle.<ref name="Goodsell"/>}}
+
+{{term|wheelfight}}
+{{defn|A rotary disturbance occurring in the {{gli|steering wheel}} that is produced by forces acting on the steered wheels.<ref name="Goodsell"/>}}
+
+{{term|[[whistle tip]]}}
+{{defn|}}
+
+{{term|[[windshield]]}}
+{{ghat|Also '''windscreen'''.}}
+{{defn|The front window of an automobile, providing visibility in the forward direction of travel while protecting the occupants from the elements. Modern windshields are usually made of laminated [[safety glass]], consisting of two curved sheets of glass with a plastic layer laminated between them, which is bonded to the window frame.}}
+
+{{term|[[windshield wiper]]}}
+{{defn|}}
+
+{{term|wing}}
+{{defn|British English for {{gli|fender}}.<ref>{{cite book |title=[[Collins English Dictionary]] |chapter-url=https://www.collinsdictionary.com/dictionary/english/wing |chapter=wing}}</ref>}}
+
+{{term|wing mirror}}
+{{defn|}}
+
+{{term|wiring harness}}
+{{defn|}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==Y==
+{{glossary}}
+{{term|Y pipe}}
+{{ghat|Also '''breeches pipe'''.}}  
+{{defn|A two-branch {{gli|exhaust manifold}} connecting the exhausts of a {{gli|V engine}} to form a single exhaust.<ref name="Goodsell"/>}}
+
+{{glossary end}}
+
+{{compact TOC|side=yes|center=yes|nobreak=yes|0-9=|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==See also==
+*[[Glossary of automotive design]]
+*[[Glossary of mechanical engineering]]
+*[[Glossary of motorsport terms]]
+*[[Glossary of road transport terms]]
+*[[List of auto parts]]
+*[[Outline of automobiles]]
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Automotive terms}}
+[[Category:Glossaries of technology|Automotive terms]]
+[[Category:Automotive terminology]]
+[[Category:Wikipedia glossaries using description lists]]

@@ -1,0 +1,208 @@
+induction stroke
+admission stroke
+aftermarket
+air brake
+alternative fuel vehicle
+alternator
+antifreeze
+articulated vehicle
+automatic transmission
+automotive design
+automotive engineering
+axle
+back-fire
+backup camera
+ball and socket
+automotive battery
+battery
+bell housing
+bench seat
+body-in-blue
+brake
+brake balance
+brake fade
+brake fluid
+brake light
+brake pad
+brake pedal
+brake shoe
+braking distance
+braking system
+bucket seat
+bullbar
+bumper
+camber angle
+carburetor
+carputer
+caster angle
+catalytic converter
+center cap
+center console
+chassis
+choke valve
+choke
+clockspring
+clutch
+cold cranking amp
+cold inflation pressure
+combustion chamber
+compression ratio
+coolant
+cowling
+crankcase
+crankshaft
+crossflow cylinder head
+crossmember
+curb weight
+dashboard
+differential
+dipstick
+disc brake
+dispersant
+engine displacement
+displacement
+drive shaft
+drive wheel
+drivetrain
+drum brake
+dry clutch
+dynamometer
+economizer
+electric vehicle
+engine
+engine block
+engine configuration
+exhaust manifold
+exhaust system
+fan belt
+fender
+fifth-wheel coupling
+firing order
+flat engine
+flathead engine
+four-stroke engine
+frame
+Accelerator pedal
+gas pedal
+gearbox
+gear stick
+glove compartment
+Glow plug
+grille
+gross train weight
+automobile handling
+handling
+headlamp
+headlight
+hidden headlamp
+hood
+hubcap
+hybrid vehicle
+idle speed
+idler arm
+idle
+idling
+ignition coil
+ignition switch
+straight engine
+inline engine
+intake manifold
+internal combustion engine
+jumper cable
+jump lead
+jump start
+kerb weight
+kingpin
+octane rating
+knock rating
+engine knocking
+knocking
+leaf spring
+limited-slip differential
+locking differential
+longitudinal engine
+make
+manual transmission
+manumatic
+marque
+motor oil
+muffler
+nave
+octane rating
+odometer
+off-road vehicle
+oil filter
+oil pan
+Oil pump
+internal combustion engine
+overdrive
+oversteer
+parking brake
+piston
+car platform
+platform
+backlash
+power locks
+power steering
+power windows
+powertrain
+rack and pinion
+radiator
+rear-view mirror
+redline
+roadworthy
+semi-automatic transmission
+siping
+sludge
+spare tire
+spark ignition
+spark plug
+speedometer
+spoiler
+steering column
+steering wheel
+straight engine
+choke valve
+strangler
+street-legal
+stroke
+subframe
+sun visor
+supercharger
+suspension
+tachometer
+3-way tailgate
+tailgate
+tailpipe
+telematics
+throttle
+tie rod
+tire
+tire balance
+tire pressure
+tire rotation
+torque
+traction
+trafficator
+transaxle
+transbrake
+transfer case
+transmission
+transmission fluid
+transmission tunnel
+transverse engine
+Trim level
+trunk
+turbocharger
+turn signal
+two-stroke engine
+understeer
+unsprung mass
+V engine
+valvetrain
+wheel alignment
+wheel well
+wheelbase
+whistle tip
+windshield
+windshield wiper
