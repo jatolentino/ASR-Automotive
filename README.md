@@ -202,6 +202,8 @@ graph TD
 - [X] `► Script to train an ASR`
 - [X] `► Prepare a Script for Data labeling`
 - [X] `► Inference Script for model deploying/serving`
+- [X] `► Training session finished with ~150 samples`
+- [X] `► ML model converted to *.onnx for fast inference`
 - [ ] `► Fix abreviations in wav files, i.e. BMW`
 - [ ] `► More to come ...`
 
